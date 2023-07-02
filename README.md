@@ -12,7 +12,7 @@ Introducing our coffee website, crafted using HTML, CSS, and JS. Experience seam
 
 ## Demo
 
-Live Demo:  https://codesoftg.github.io/TG-Codes-Coffee-Website/
+Live Demo:  https://nishap24.github.io/Nisha-P-Coffee-Website/
     
 
 ## Getting Started
